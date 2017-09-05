@@ -9,3 +9,5 @@ IOS中 本质还是c语言 所以在main文件中 方法入口还是main方法<b
 ![img](https://github.com/xuhuawei131/06UIWindow/blob/master/ScreenShots/uiwindow_appdelegate.png)<br/>
 特别注意的是 UIApplicationMain类中 她的代理 AppDelegate 里面有应用的生命周期回调<br/>
 所以我们初始化的时候 放在这里<br/>
+![img](https://github.com/xuhuawei131/06UIWindow/blob/master/ScreenShots/uiwindow_appdelegate_inner.png)<br/>
+我们可以自己去指定我们的 ViewControler 也可以自己去添加view到uiwindow<br/>
