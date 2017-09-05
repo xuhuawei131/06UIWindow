@@ -13,7 +13,7 @@ IOS中 本质还是c语言 所以在main文件中 方法入口还是main方法<b
 
 特别注意的是 UIApplicationMain类中 她的代理 AppDelegate 里面有应用的生命周期回调<br/>
 
-![img](https://github.com/xuhuawei131/06UIWindow/blob/master/ScreenShots/application_delegate.png)<br/>
+![img](https://github.com/xuhuawei131/06UIWindow/blob/master/ScreenShots/application_appdelegate.png)<br/>
 
 所以我们初始化的时候 放在这里<br/>
 ![img](https://github.com/xuhuawei131/06UIWindow/blob/master/ScreenShots/uiwindow_appdelegate_inner.png)<br/>
